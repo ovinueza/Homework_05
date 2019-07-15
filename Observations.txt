@@ -1,0 +1,15 @@
+Homework 05
+
+Pyber Trends
+
+Based on the analyzed data we see that Pyber services are more popular in urban than in suburban or rural cities.
+This trend could mostly be explain by larger population concentration in urban cities and therefore a bigger need for transportation services.
+
+Due to the popularity of Pyber we also see a large amount of drivers in the urban cities. 
+What we can't tell from this data is if the demand is meet with the current amount of drivers.
+
+Based on the Ride Sharing Data graph we see on average 25 rides on urban cities with fares between $20-$30. 
+There is a significant difference in price and number of rides when comparing to suburban and rural cities. 
+This can be explain by a longer distances and a lower supply of drivers for those areas.
+
+
