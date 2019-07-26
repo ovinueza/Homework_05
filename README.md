@@ -1,5 +1,4 @@
-# Homework_05
-Matplotlib
+# Matplotlib
 
 Pyber
 
