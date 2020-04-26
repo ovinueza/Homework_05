@@ -15,7 +15,7 @@ It determines where is Pyber most used and what are the average fare prices per 
 It also includes records on the percentage of fares, rides and drivers per city type.
 
 
-Pyber Trends
+## Trends
 
 Based on the analyzed data we see that Pyber services are more popular in urban than in suburban or rural cities.
 This trend could mostly be explain by larger population concentration in urban cities and therefore a bigger need for transportation services.
